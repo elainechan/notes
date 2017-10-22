@@ -1,0 +1,17 @@
+"Ansible","An open-source automation engine that automates software provisioning, configuration management, and application deployment."
+
+"Chef","A configuration management tool written in Ruby and Erlang. It uses a pure-Ruby, domain-specific language (DSL) for writing system configuration "recipes"."
+
+"Cron","A time-based job scheduler in Unix-like computer operating systems."
+
+"Docker","A software providing containers, an additional layer of abstraction and automation of operating-system-level vitrualization."
+
+"Jenkins","An open source automation server written in Java. Jenkins helps to automate the non-human part of software development process, with continuous integration and facilitating technical aspects of continuous delivery."
+
+"Kubernetes","An open source orchestration tool for automating deployment, scaling, and management of containerize applications."
+
+"Puppet","An open source software configuration management tool."
+
+"Terraform","An infrastructure as code software that allows users to define a datacenter infrastructure in a high-level configuration language, from which it can create an execution plan to build the infrastructure in a service provider such as AWS."
+
+"Vagrant","An open-source software product for building and maintaining portable virtual software development environments, e.g. for VirtualBox, Hyper-V, Docker, VMware, and AWS."

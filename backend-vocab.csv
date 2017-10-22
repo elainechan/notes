@@ -1,0 +1,22 @@
+"Flat file database","A database stored as an ordinary unstructured file called a 'flat file'. To access the structure of the data and manipulate it on a computer system, the file must be read in its entirety into the computer's memory. Upon completion of the database operations, the file is again written out in its entirety to the host's file system. In this stored mode the database is said to be "flat", meaning that it has no structure for indexing and there are usually no structural relationships between the records. A flat file can be a plain text file or a binary file."
+
+"Fault tolerance","The property that enables a system to continue operating properly in the event of the failure of (or one or more faults within) some of its components. If its operating quality decreases at all, the decrease is proportional to the severity of the failure, as compared to a naively designed system in which even a small failure can cause total breakdown."
+
+"High throughput",""
+
+"Low latency",""
+
+"Scalability",""
+
+"Canary release","A technique to reduce the risk of introducing a new software version in production by slowly rolling out the change to a small subset of users before rolling it out to the entire infrastructure and making it available to everybody."
+
+"Blue-green deployment","A technique for releasing applications by shifting traffic between two identical environments running different versions of the application.
+Blue/green deployments can mitigate common risks associated with deploying software, such as downtime and rollback capability."
+
+"Structured logging","The goal of structured logging is to bring a more defined format and details to logging, to allow additional analytics. Example: filter all logs by a certain customer # or transaction #."
+
+"Payload","The part of transmitted data that is the actual intended message. The payload excludes any headers or metadata sent solely to facilitate payload delivery."
+
+"Load balancing","Distributing incoming network traffic across a group of servers."
+
+"Failover","Switching to a standby or redundant server, system, component, or network upon the failure of an active one."

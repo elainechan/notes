@@ -1,0 +1,5 @@
+"Infrastructure as a Service (IaaS)","Provide access to storage space, computers, and networking features. Example: EC2"
+
+"Platform as a Service (PaaS)","Provide hardware and operating systems. Example: Lambda"
+
+"Software as a Service (PaaS)","Provides an end-user application run and managed by the provider. Example: Gmail"

@@ -1,0 +1,170 @@
+"IAM","[Security & Identity]
+Identity Access Management:"
+
+"API Gateway","[Application Services]
+Way of accessing backend services with AWS. Door that allows creation and securing API at scale (business logic, backend service). Triggers Lambda functions."
+
+"AppStream 2.0","[Streaming]"
+
+"AppStream","[Application Services]
+Streams apps"
+
+"Artifacts","[Security & Identity]
+Where you get compliance documents"
+
+"Aurora","[Databases]"
+
+"Availability Zone","[Global Infrastructure]
+Consists of one or more discrete/isolated data centers, each with redundant power, networking and connectivity, housed in separate facilities. (44 total)"
+
+"Certificate Manager","[Security & Identity]
+Gives free SSL certificates for domain names"
+
+"Cloud Formation","[Management Tools]
+Turning physical infrastructure into code. Doc that describes production environment."
+
+"Cloud Trail","[Management Tools]
+Audits changes to AWS environment: a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account"
+
+"Cloud Watch","[Management Tools]
+To monitor performance of AWS environment like EC2."
+
+"CloudFront","[Network & Content Delivery]
+A global content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to your viewers with low latency and high transfer speeds."
+
+"CodeBuild","[Developer Tools]
+Compiler"
+
+"CodeCommit","[Developer Tools]
+Like GitHub"
+
+"CodeDeploy","[Developer Tools]
+Deployer"
+
+"CodePipeline","[Developer Tools]
+Version control"
+
+"Cognito","[Mobile Services] Sign in using social media credentials"
+
+"Config","[Management Tools]
+Set alerts to monitor AWS environment"
+
+"Device Farm","[Mobile ]Testing Android apps on real smart phones"
+
+"Direct Connect","[Network & Content Delivery]
+For connecting offices and physical data centers directly to AWS using dedicated telephone lines (instead of Internet). Connection is more reliable than Internet."
+
+"Directory Service","[Security & Identity]
+A way to use AWS with Microsoft Active Directory"
+
+"DMS","[Migration] Database Migration Service: can migrate your data to and from most widely used commercial and open-source databases such as Oracle, PostgreSQL, Microsoft SQL Server, Amazon Redshift, Amazon Aurora, Amazon DynamoDB, Amazon S3, MariaDB, and MySQL."
+
+"DynamoDB","[Databases]
+A fully managed NoSQL database service that provides fast and predictable performance with seamless scalability."
+
+"EC2 Container Service","[Compute]
+Container management service that supports Docker containers. Allows running apps on managed cluster of EC2 instances (VMs)."
+
+"EC2","[Compute]
+Elastic Compute Cloud: virtual machines in the cloud"
+
+"Edge Locations","[Global Infrastructure]
+Points of presence for CloudFront content delivery network; endpoints where content is cached."
+
+"EFS","[Storage] 
+Elastic File System: scalable file storage for use with EC2 instances in the AWS Cloud."
+
+"Elastic Beanstalk","[Compute]
+Provisions backend infrastructure for applications"
+
+"Elastic Transcoder","[Application Services]
+Transcodes videos to suit all devices"
+
+"EMR","[Analytics]
+Elastic MapReduce: provides a managed Hadoop framework that makes it easy, fast, and cost-effective to process vast amounts of data across dynamically scalable Amazon EC2 instances. Handles a broad set of big data use cases, including log analysis, web indexing, data transformations (ETL), machine learning, financial analysis, scientific simulation, and bioinformatics."
+
+"Glacier","[Storage]
+Storage service optimized for infrequently used data, or "cold data.""
+
+"Inspector","[Security & Identity]
+Agent to install virtual machines"
+
+"ioT","Keeping track with ioT Gateway"
+
+"Kinesis","[Analytics]
+Makes it easy to collect, process, and analyze real-time, streaming data so you can get timely insights and react quickly to new information."
+
+"Lambda","[Compute]
+Upload code that would respond to events. Lets you run code without provisioning or managing servers."
+
+"Lex","[AI] Alexa without the device"
+
+"Lightsail","[Compute]
+Out-of-the-box cloud for dummies"
+
+"Machine Learning","[AI] Dataset"
+
+"Mobile Analytics",""
+
+"Mobile Hub","[Mobile Services] Allows add, configure features of mobile apps"
+
+"Opsworks","[Management Tools]
+Chef integration."
+
+"Pinpoint","Google Analytics for mobile apps"
+
+"Polly","[AI] Text to voice technology"
+
+"Quick Sight","[Analytics] business analytics service that makes it easy to build visualizations, perform ad-hoc analysis, and quickly get business insights from your data"
+
+"RDS","[Databases]
+Relational Database Service: makes it easy to set up, operate, and scale a relational database in the cloud. It provides cost-efficient, resizable capacity for an industry-standard relational database and manages common database administration tasks."
+
+"Redshift","[Databases] A fully managed, petabyte-scale data warehouse service in the cloud."
+
+"Region","[Global Infrastructure]
+A distinct location within a geographic area designed to provide high availability to a specific geography. A physical location in the world where AWS has two or more Availability Zones. (16 total)"
+
+"Rekognition","[AI] Image recognition"
+
+"Route53","[Network & Content Delivery]
+Domain name system (DNS) service, can register domain names through this service."
+
+"S3","[Storage]
+Simple Storage Service: storage for the Internet to store and retrieve any amount of data at any time, from anywhere on the web."
+
+"Service Catalog","[Management Tools]
+For larger enterprises to build out authorization."
+
+"SES","[Messaging] Simple Email Service"
+
+"Snowball","[Storage] [Migration]
+A service for customers who want to transport terabytes or petabytes of data to and from AWS, or who want to access the storage and compute power of the AWS Cloud locally and cost effectively in places where connecting to the Internet may not be an option."
+
+"SNS","[Messaging] Simple Notification Service, publishable to HTTP/S endpoints"
+
+"SQS","[Messaging] SQS decoupling apps from dependencies, queue system for posting jobs to. Meme generation: SQS stores as job, EC2 creates the meme"
+
+"Step Functions","[Application Services]
+Visualizes what's going on inside apps, what microservices it's using."
+
+"Storage Gateway","[Storage]
+Connects an on-premises software appliance with cloud-based storage to provide seamless integration with data security features between on-premises IT environment and the AWS storage infrastructure."
+
+"SWF","[Application Services]
+Simple Workload Services: coordinates automated and human tasks, used in Amazon fulfillment centers."
+
+"Trusted Advisor","[Management Tools]
+Automates recommendation on cost and performance optimization, security, fault tolerance. An online resource to help you reduce cost, increase performance, and improve security by optimizing your AWS environment, Trusted Advisor provides real time guidance to help you provision your resources following AWS best practices."
+
+"VPC","[Network & Content Delivery] [Compute]
+Virtual Private Cloud: virtual data center; can have multiple per region, can connect one with another. A VPC is logically isolated from other virtual networks in the AWS cloud, providing compute resources with security and robust networking functionality."
+
+"WAF","[Security & Identity]
+Web Application Firewall: allows application-level protection for Website, prevents SQL injection and cross-site scripting"
+
+"Work Spaces","[Streaming]VDI - having a thin client virtual desktop, no local OS."
+
+"WorkDocs",""
+
+"WorkMail","mail"

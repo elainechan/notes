@@ -1,0 +1,19 @@
+"DSL","Domain-specific language"
+
+"HSM","Hardware security module"
+
+"KMS","Key management solution"
+
+"NAS","[Appliance] Network-attached storage provides a file-level computer storage server connected to a computer network to a heterogenous group of clients. NAS is both storage and a file system."
+
+"OAT","[Test] Operational acceptance test: criteria are defined in terms of functional and non-functional requirements; covering key quality attributes of functional stability, portability and reliability."
+
+"SAN","[Network] Storage area network provides consolidated block-based storage and leaves file system concerns on the "client" side."
+
+"SOA","[Architecture] Service-oriented architecture"
+
+"TTL","[Mechanism] Time to live / hop limit: a mechanism that limits the lifespan or lifetime of data in a computer or network. TTL may be implemented as a counter or timestamp attached to or embedded in the data. Once the prescribed event count or timespan has elapsed, data is discarded. In computer networking, TTL prevents a data packet from circulating indefinitely. In computing applications, TTL is used to improve performance of caching or to improve privacy."
+
+"UAT","[Test] User acceptance test: high-level tests to verify the completeness of a user story or stories 'played' during any sprint/iteration."
+
+"VDI","[Appliance] Virtual desktop infrastructure is a virtualization technology that hosts a desktop operating system on a centralized server in a data center. Because the OS does not operate on the client machine, this model called a "thin client" model."
