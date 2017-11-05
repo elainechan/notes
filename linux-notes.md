@@ -67,6 +67,7 @@
     * systemd command `systemctl` used for most tasks
 
 ## Root Filesystem
+[Source](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 * `bin` - Essential command binaries
 * `boot` - Static files of the boot loader
 * `dev` - Device files
