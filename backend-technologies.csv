@@ -15,3 +15,8 @@
 "Terraform","An infrastructure as code software that allows users to define a datacenter infrastructure in a high-level configuration language, from which it can create an execution plan to build the infrastructure in a service provider such as AWS."
 
 "Vagrant","An open-source software product for building and maintaining portable virtual software development environments, e.g. for VirtualBox, Hyper-V, Docker, VMware, and AWS."
+
+Travis
+Virtualbox
+Openshift
+VMware
