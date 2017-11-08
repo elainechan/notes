@@ -30,3 +30,9 @@
 * `|` OR
 * `^` XOR
 
+### Range Limits of Data Size
+* `<limits.h>` defines implementation-specific with the #define directive
+* `<stdint.h>`
+* `typedef signed T A`
+* `typedef unsigned T B`
+* Two's-Complement Encodings
