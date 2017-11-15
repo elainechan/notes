@@ -3,14 +3,22 @@
 ## Foundational Terminology and Concepts
 
 ### Software Development Methodologies
-* Waterfall
-* Agile
-* Scrum
+* Waterfall - sequential
+* Agile - lightweight
+* Scrum - daily meetings
 ### Operations Methodologies
-* ITIL
-* COBIT
+* ITIL - information technology infrastructure library
+* COBIT - control objectives for information and related technology
 ### Systems Methodologies
 * Lean
+    * Value
+    * Value Stream
+    * Flow
+    * Pull
+    * Perfection
+* Sources
+    * Thinking in Systems - Donella Meadows
+    * How Complex Systems Fail - Richard Cook
 ### Development, Release, and Deployment Concepts
 * Version Control
     * commit
