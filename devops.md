@@ -1,4 +1,4 @@
-# DevOps Notes
+# Devops Notes
 
 ## Foundational Terminology and Concepts
 
@@ -110,3 +110,11 @@ checking whether they meet some predefined conditions of desired state.
 * Elasticache
 * DynamoDB
 * Redshift
+
+## All Day Devops
+### 2017
+[2017 Recordings](https://www.alldaydevops.com/addo17-links-to-presentations)
+[2017 Session Descriptions](http://www.alldaydevops.com/schedule)
+### 2016
+[2016 Recordings](https://www.sonatype.com/all-day-devops-ondemand)
+[2017 Session Descriptions](https://alldaydevops2016.sched.com/)
