@@ -1,5 +1,7 @@
 # Devops Notes
 
+* Provisioning
+
 ## Foundational Terminology and Concepts
 
 ### Software Development Methodologies
@@ -31,6 +33,8 @@
 * Continuous Delivery
 * Continuous Deployment
 * Minimum Viable Product
+* Security and Compliance
+
 ### Infrastructure Concepts
 * Configuration Management
 * Cloud Computing
@@ -47,6 +51,8 @@
     * Promotion - selecting specific version to move toward delivery
 * System Provisioning
 * Containers
+* Orchestration
+* Network Automation
 ### Cultural Concepts
 * Retrospective
 * Postmortem
