@@ -67,7 +67,7 @@
     * systemd command `systemctl` used for most tasks
 
 ## Linux Requirements
-[Source](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
+[Filesystem Hierarchy Standard](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 
 ### Root Filesystem
 * `bin` - Essential command binaries
