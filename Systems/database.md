@@ -47,21 +47,19 @@ Heap structure
 ?
 
 ## Elements
-Data Lake
-* a data pool in which schema and requirements are not defined until the data is queried.
-
-Data Warehouse (Apache Hive, Redshift)
-
-Transactional Database
+- Data Lake
+    - a data pool in which schema and requirements are not defined until the data is queried.
+- Data Warehouse (Apache Hive, Redshift)
+- Transactional Database
 
 ## Schema
 Snowflake
 
 ## Database Models
-
-Massively Parellel Processing (MPP) Database
-
-Online Analytical Processing (OLAP) Database
+- Massively Parellel Processing (MPP) Database
+- Online Analytical Processing (OLAP) Database
+- [OLTP vs. OLAP](http://datawarehouse4u.info/OLTP-vs-OLAP.html)
+- [Failover, switchover and rejoin](https://mariadb.com/resources/blog/mariadb-maxscale-22-introducing-failover-switchover-and-automatic-rejoin)
 
 ## Terminology
 * Extract, transform, load (ETL)

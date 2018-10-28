@@ -1,0 +1,10 @@
+# Architecture
+- [How I Learned to Stop Worrying and Love the State Machine](https://news.ycombinator.com/item?id=16468280)
+- [Why Developers Never Use State Machines](https://news.ycombinator.com/item?id=16470262)
+- [Microservices not a free lunch](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
+- [MIT State Machines chapter](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/unit-1-software-engineering/state-machines/MIT6_01SCS11_chap04.pdf)
+- [JS pattern: AMD](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#detailamd)
+- [Intro to microservices (Nginx)](https://www.nginx.com/blog/introduction-to-microservices/)
+- [Microservices.io](http://microservices.io/)
+- [Learn microservices (Chris Richardson)](http://chrisrichardson.net/learnmicroservices.html)
+- [Life beyond Distributed Transactions: an Apostate’s Opinion](http://adrianmarriott.net/logosroot/papers/LifeBeyondTxns.pdf)
